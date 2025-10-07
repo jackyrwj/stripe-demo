@@ -54,3 +54,4 @@ ehthumbs.db
 # 临时文件
 *.tmp
 *.temp
+.vercel
